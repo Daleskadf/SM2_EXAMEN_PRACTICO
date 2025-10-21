@@ -4,6 +4,7 @@
 - Nombre del curso: Soluciones moviles II
 - Nombre del alumno: Daleska Nicolle Fernandez Villanueva
 - Fecha: 21/10/25
+- Link de repositorio: https://github.com/Daleskadf/SM2_EXAMEN_PRACTICO
 
 ---
 
@@ -35,3 +36,25 @@ Criterios de Aceptación
 - Actualización de `lastLogin` en el documento `users` al iniciar sesión.
 
 ---
+## Capturas de pantalla (evidencias)
+Coloca las imágenes dentro de la carpeta `screenshots/` en el repositorio y referencialas con las rutas que aparecen debajo. Si ya subiste las imágenes, verifica que sus nombres coincidan exacto con los usados aquí.
+
+1) screenshots/03_login_screen.png  
+   - Descripción / caption: Pantalla de inicio de sesión. Se muestra un correo institucional (df2021050608@virtual.upt.pe), el campo contraseña y el botón "Iniciar Sesión". (Verifica la restricción de dominio @virtual.upt.pe en el flujo).
+
+   (imagenes/1.PNG)
+
+2) screenshots/04_drawer.png  
+   - Descripción / caption: Drawer del dashboard con el menú abierto. Aquí se observa el ítem "Historial de Inicios de Sesión" (nuevo acceso implementado).
+
+   (imagenes/2.PNG)
+
+3) screenshots/05_login_history_list.png  
+   - Descripción / caption: Pantalla "Historial de Inicios de Sesión" con la lista de registros del usuario (email, fecha/hora formateada y dispositivo). Los registros aparecen ordenados del más reciente al más antiguo.
+
+  (imagenes/3.PNG)
+
+4) screenshots/06_firestore_doc_example.png  
+   - Descripción / caption: Captura de la consola de Firebase Firestore donde se muestra un documento del `login_history`. Campos visibles: device ("TargetPlatform.android"), email, ip (vacío), timestamp y userId.
+
+   (imagenes/4.PNG)
