@@ -42,7 +42,7 @@ Coloca las imágenes dentro de la carpeta `screenshots/` en el repositorio y ref
 1) screenshots/03_login_screen.png  
    - Descripción / caption: Pantalla de inicio de sesión. Se muestra un correo institucional (df2021050608@virtual.upt.pe), el campo contraseña y el botón "Iniciar Sesión". (Verifica la restricción de dominio @virtual.upt.pe en el flujo).
 
-   (imagenes/1.jpg)
+   imagen1(imagenes/1.jpg)
 
 2) screenshots/04_drawer.png  
    - Descripción / caption: Drawer del dashboard con el menú abierto. Aquí se observa el ítem "Historial de Inicios de Sesión" (nuevo acceso implementado).
