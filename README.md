@@ -47,14 +47,14 @@ Coloca las imágenes dentro de la carpeta `screenshots/` en el repositorio y ref
 2) screenshots/04_drawer.png  
    - Descripción / caption: Drawer del dashboard con el menú abierto. Aquí se observa el ítem "Historial de Inicios de Sesión" (nuevo acceso implementado).
 
-   ![imagen2](imagenes/2.png)
+   ![imagen2](imagenes/2.PNG)
 
 3) screenshots/05_login_history_list.png  
    - Descripción / caption: Pantalla "Historial de Inicios de Sesión" con la lista de registros del usuario (email, fecha/hora formateada y dispositivo). Los registros aparecen ordenados del más reciente al más antiguo.
 
- ![imagen3](imagenes/3.png)
+   ![imagen3](imagenes/3.PNG)
 
 4) screenshots/06_firestore_doc_example.png  
    - Descripción / caption: Captura de la consola de Firebase Firestore donde se muestra un documento del `login_history`. Campos visibles: device ("TargetPlatform.android"), email, ip (vacío), timestamp y userId.
 
-   ![imagen4](imagenes/4.png)
+   ![imagen4](imagenes/4.PNG)
